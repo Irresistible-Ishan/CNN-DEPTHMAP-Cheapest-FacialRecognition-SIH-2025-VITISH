@@ -25,7 +25,7 @@ Threshold decision 92% or more: for prototype (can be taken not necessary)
 
 
 ## DATASET USED : https://www.kaggle.com/datasets/stoicstatic/face-recognition-dataset
-## Nikit Periwal · Updated 4 years ago
+## Nikit Periwal · Updated 4 years ago - DATASET AUTHOR KAGGLE
 
 About Dataset
 Welcome to Face Recognition Dataset, a database of face photographs designed for the creation of face detection and recognition models. This dataset has been derived from the Labeled Faces in the Wild Dataset.
