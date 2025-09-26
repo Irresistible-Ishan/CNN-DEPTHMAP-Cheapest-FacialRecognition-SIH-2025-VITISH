@@ -1,13 +1,14 @@
 # CNN-DEPTHMAP-Cheapest-FacialRecognition-SIH-2025-VITISH
 Problem Statement : SIH25012 , Automated Attendance System for Rural Schools by Govt. Of Punjab , India;  
 
-## RESULT:
-# when compared with recent two images of a friend
+# RESULT:
+### when compared with recent two images of a friend
 - > 99.3% accuracy (with crop) (close up face pic)
 
-# when i took my current pic and stored it in embedding
--> then compared my 4 years old pic : 94.8% (without crop) (not a close up face pic)
--> then compared my childhood pic : 99.5% (without crop) (not a close up face pic)
+### when i took my current pic and stored it in embedding
+- > then compared my 4 years old pic : 94.8% (without crop) (not a close up face pic)
+- > then compared my childhood pic : 99.5% (without crop) (not a close up face pic)
+  
 Threshold decision 92% or more: for prototype (can be taken not necessary)
 
 
