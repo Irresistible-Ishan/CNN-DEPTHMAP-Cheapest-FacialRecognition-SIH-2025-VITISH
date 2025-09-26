@@ -6,7 +6,6 @@ Problem Statement : SIH25012 , Automated Attendance System for Rural Schools by 
 ### Usage : when someone enters a face image , it converts the image into the embedding then searches for the similar embedding in the vector space using mathematical vector search methods. and if it exists then it compares the similarity of all the axis features and gives a score and also returns the label ID through which it can extract other data regarding that person from any data handling methods such as a csv that is encrypted with military grade encryptions and with implementation of blockchain technology to rectify false inputs and data manipulation and also to safeguard data of students.
 ### Future updates : the cropping of the face image is manual from a full portrait image , a face detection model is to be integrated such that only the closeup face image is cropped and passed into the CNN . Also its argued that anyone can put up a fake image or a video of the person to make system think its the person , to fix this issue its very simple and its by implementing the DEPTH mapping , to use the recent models on hugging face released by many researchers which converts IMAGE into a DEPTH map while a real face would have a depth similar to a face , a picture wouldnt have a depth and would be 2d , a model can be further trained on this to match depth as well as using CNN to know the exact identity. 
 
-DEPTH mapping example : 
 
 # RESULT:
 ### when compared with recent two images of a friend
@@ -22,6 +21,8 @@ Threshold decision 92% or more: for prototype (can be taken not necessary)
 
 ## FUTURE PLAN : 
 ### 1. Adding a depth mapping , IMAGE -> DEPTH MAP. to make system foolproof
+example of depth map implementation - source hugging face spaces
+![Demo Screenshot](futureInt_example)
 ### 2. Facedetection : to crop the close up of the face 
 ### 3. Adding live classroom detection 24/7 with relative classroom movement and student behaviour 
 
