@@ -1,0 +1,8 @@
+# when compared with recent two images of a friend
+- > 99.3% accuracy (with crop)
+
+# when i took my current pic and stored it in embedding
+-> then compared my 4 years old pic : 94.8% (without crop)
+-> then compared my childhood pic : 99.5% (without crop)
+
+Threshold decision 92% or more: for prototype
