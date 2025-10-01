@@ -22,7 +22,7 @@ Threshold decision 92% or more: for prototype (can be taken not necessary)
 ## FUTURE PLAN : 
 ### 1. Adding a depth mapping , IMAGE -> DEPTH MAP. to make system foolproof
 example of depth map implementation - source hugging face spaces
-![Demo Screenshot](futureInt_example)
+![Demo Screenshot](futureInt_example/WhatsApp Image 2025-09-22 at 23.38.52_ffefacef.jpg)
 ### 2. Facedetection : to crop the close up of the face 
 ### 3. Adding live classroom detection 24/7 with relative classroom movement and student behaviour 
 
